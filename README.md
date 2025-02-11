@@ -1,4 +1,4 @@
-# this will contain the basic libraries reuired for creating the assesment code
+# this will contain the basic libraries required for creating the assesment code
 
 Step 1: Basic Python Packages installation
 sudo apt install python3-bs4
